@@ -1,7 +1,4 @@
-h2{
-  color: #8d95df;
-}
+h2{color: #8d95df;}
 .blue{color: blue;}
-a{color: #ff00dd;}
-a:hover{color: burlywood; font-size: 20px;}
+
 .img, .image{width: 180px; border-radius:20px;}
